@@ -1,19 +1,17 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
+# Sudanese Tourist
+ . Responsive Layout
+ . Tourist Destination
+ . Header with flag 
+ . cultural information
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+## By Scrimba
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+This is a simple webpage that explains the significance of the colors in the **Sudanese flag**. The webpage features four main sections, each dedicated to a specific color from the flag: Red, Green, White, and Black. Each section provides an explanation of what the color represents in the context of Sudan's culture and historical tourist destination.
 
-Happy Coding!
+- **Educational Content**: Each section describes the meaning behind one of the four colors in the Sudanese flag.
+- **Color-coded Sections**: The background color of each section corresponds to the color being described, making it visually engaging.
+- **Footer**: Includes a footer with a simple horizontal black line at the bottom for styling.
+
+## Project Structure
+HTML,CSS
